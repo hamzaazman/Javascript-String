@@ -4,4 +4,4 @@
 
 
 
-![](javascriptStrings\gif\string.gif)
+![](https://github.com/hamzaazman/Javascript-String/tree/main/gif/string.gif)
