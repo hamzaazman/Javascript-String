@@ -4,4 +4,4 @@
 
 
 
-![string](javascriptStrings\gif\string.gif)
+![](javascriptStrings\gif\string.gif)
