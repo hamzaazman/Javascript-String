@@ -4,4 +4,4 @@
 
 
 
-![string](C:\Users\hamza\Music\javascriptStrings\gif\string.gif)
+![string](javascriptStrings\gif\string.gif)
